@@ -1,4 +1,4 @@
-# Estudo de Desenvolvimento Android Moderno: NotesJetPackCompApp
+# Estudo de Desenvolvimento Android Moderno: NotesTakingJetPackCompApp
 
 Este projeto é uma aplicação de notas simples construída com o objetivo de estudar e implementar as ferramentas mais recentes do ecossistema Android.
 
@@ -38,3 +38,5 @@ O Hilt facilita a gestão de instâncias de classes e a sua partilha entre compo
 
 ---
 *Este documento serve como base de consulta para futuros projetos.*
+
+<img width="470" height="933" alt="Captura de ecrã 2026-04-21 121744" src="https://github.com/user-attachments/assets/b8b04035-f2f9-4e1c-8747-075a7e7c66d1" />
